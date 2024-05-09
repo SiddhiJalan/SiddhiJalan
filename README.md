@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhi</h1>
-<h3 align="center">a passionate coder with a heart for anime!</h3>
+<h3 align="center">a coder with a heart for anime!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhijalan&label=Profile%20views&color=0e75b6&style=flat" alt="siddhijalan" /> </p>
 
