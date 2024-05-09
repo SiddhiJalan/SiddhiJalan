@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **siddhijalan8@gmail.com**
 
-- ⚡ Fun fact **I talk alot**
+- ⚡ Fun fact **I love reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
